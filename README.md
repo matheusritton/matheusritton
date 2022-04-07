@@ -1,6 +1,6 @@
 ## Hi! My name is Matheus Ritton!
 
-I'm a student of Information Systems at the Universidade Federal Rural do Rio de Janeiro. Currently I'm interested and focused my learning in areas such as Database, Artificial Intelligence, Web Systems and Software Engineering.
+I'm an Information Systems student at Universidade Federal Rural do Rio de Janeiro. Currently I'm interested and focused my learning in areas such as Database, Artificial Intelligence, Web Systems and Software Engineering.
 
 #### Languages and Technologies of Interest:
 
