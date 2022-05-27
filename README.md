@@ -19,5 +19,5 @@ src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/d82316c6
 ---
 
 ### Contact Info
-![mailto:matheus.ritton@hotmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![https://www.linkedin.com/in/matheus-ritton/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![mailto:matheus.ritton@hotmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.ritton@hotmail.com)
+[![https://www.linkedin.com/in/matheus-ritton/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ritton/)
