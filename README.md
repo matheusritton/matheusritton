@@ -1,7 +1,7 @@
 ## Hi! My name is Matheus Ritton!
 
-<a href="https://github.com/matheusritton/python.projects">
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusritton&repo=python.projects&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/matt-ritton/python.projects">
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=matt-ritton&repo=python.projects&theme=tokyonight&hide_border=true" />
 </a>
 
 <p align="justify">I'm an Information Systems student at Universidade Federal Rural do Rio de Janeiro. Currently I'm interested and focused in areas such as Databases, Artificial Intelligence, Web Systems and Software Engineering. <b>This is my favorite repository:</b> </p>
@@ -14,7 +14,7 @@ src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/d82316c6
 
 ---
 
-[![Ritton's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusritton&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/matheusritton/matheusritton)
+[![Ritton's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-ritton&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/matt-ritton/matt-ritton)
 
 ---
 
