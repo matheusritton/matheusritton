@@ -4,14 +4,14 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=matt-ritton&repo=python.projects&theme=tokyonight&hide_border=true" />
 </a>
 
-<p align="justify">I'm an Information Systems student at Universidade Federal Rural do Rio de Janeiro. Currently I'm interested and focused in areas such as Databases, Artificial Intelligence, Web Systems and Software Engineering. <b>This is my favorite repository:</b> </p>
+<p align="justify">I'm an Information Systems student at Universidade Federal Rural do Rio de Janeiro. Currently I'm interested and focused in areas such as Artificial Intelligence, Web Systems and Software Engineering. <b>This is my favorite repository:</b> </p>
 
 
 #### Languages and Technologies of Interest:
 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/4840634c897f948a89c2b9941c873f366a94c56d/icons/python.svg" height=25> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/4840634c897f948a89c2b9941c873f366a94c56d/icons/javascript.svg" height=25> <img 
-src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/d82316c6717876d8522dacdcc5c8cbc4aee64f6b/icons/react.svg" height=25> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/4840634c897f948a89c2b9941c873f366a94c56d/icons/database.svg" height=25> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/4840634c897f948a89c2b9941c873f366a94c56d/icons/html.svg" height=25> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/4840634c897f948a89c2b9941c873f366a94c56d/icons/css.svg" height=25> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" height=25>   
-
+<img src="https://xesque.rocketseat.dev/platform/tech/python.svg" height=25> <img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" height=25> <img 
+src="https://xesque.rocketseat.dev/platform/tech/node.svg" height=25> <img 
+src="https://xesque.rocketseat.dev/platform/tech/react-native.svg" height=25> <img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" height=25> <img src="https://xesque.rocketseat.dev/platform/tech/html5.svg" height=25> <img src="https://xesque.rocketseat.dev/platform/tech/css3.svg" height=25>
 ---
 
 [![Ritton's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-ritton&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/matt-ritton/matt-ritton)
