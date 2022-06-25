@@ -4,7 +4,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=matt-ritton&repo=python.projects&theme=tokyonight&hide_border=true" />
 </a>
 
-<p align="justify">I'm an Information Systems student at Universidade Federal Rural do Rio de Janeiro. Currently I'm interested and focused in areas such as Artificial Intelligence, Web Systems and Software Engineering. <b>This is my favorite repository:</b> </p>
+<p align="justify">I'm an Information Systems student at Universidade Federal Rural do Rio de Janeiro. Currently I'm interested and focused in areas such as Artificial Intelligence, Web Systems and Software Engineering.
 
 
 #### Languages and Technologies of Interest:
