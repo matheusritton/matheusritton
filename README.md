@@ -1,13 +1,10 @@
 ## Hi! My name is Matheus Ritton!
 
-<p align="justify">I'm an Information Systems student at Universidade Federal Rural do Rio de Janeiro. Currently I'm interested and focused in areas such as Artificial Intelligence, Web Systems and Software Engineering.
-
+<p align="justify">I'm an Information Systems student at Universidade Federal Rural do Rio de Janeiro. Currently I'm interested and focused in areas such as Artificial Intelligence and Web Systems.
 
 #### Languages and Technologies of Interest:
 
-<img src="https://xesque.rocketseat.dev/platform/tech/python.svg" height=25> <img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" height=25> <img 
-src="https://xesque.rocketseat.dev/platform/tech/react-native.svg" height=25> <img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" height=25> <img 
-src="https://xesque.rocketseat.dev/platform/tech/node.svg" height=25> <img src="https://xesque.rocketseat.dev/platform/tech/html5.svg" height=25> <img src="https://xesque.rocketseat.dev/platform/tech/css3.svg" height=25> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" height=25> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height=25>
+<img src="https://xesque.rocketseat.dev/platform/tech/python.svg" height=25> <img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" height=25> <img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" height=25> <img src="https://xesque.rocketseat.dev/platform/tech/html5.svg" height=25> <img src="https://xesque.rocketseat.dev/platform/tech/css3.svg" height=25> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height=25>
 
 ---
 
