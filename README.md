@@ -10,10 +10,13 @@
 
 [![Ritton's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-ritton&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/matt-ritton/matt-ritton)
 
+[![https://www.behance.net/matt-ritton](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/matt-ritton/)
+[![https://dribbble.com/matt-ritton)](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/matt-ritton)
+[![(https://medium.com/@matt-ritton)](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@matt-ritton)
+[![(https://matt-ritton.hashnode.dev)](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://matt-ritton.hashnode.dev)
+
 ---
 
 ### Contact Info
 [![mailto:matheus.ritton@hotmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.ritton@hotmail.com)
 [![https://www.linkedin.com/in/matheus-ritton/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ritton/)
-[![https://www.behance.net/matt-ritton](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/matt-ritton/)
-[![https://dribbble.com/matt-ritton)](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/matt-ritton)
