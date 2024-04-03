@@ -13,7 +13,7 @@
 ---
 
 <a href="https://github.com/matt-ritton">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matt-ritton&card_width=590&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matt-ritton&theme=merko" />
 </a>
 <a href="https://github.com/matt-ritton">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matt-ritton&layout=compact&langs_count=8&card_width=380&&theme=merko" />
